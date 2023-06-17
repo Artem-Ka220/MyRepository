@@ -31,7 +31,7 @@ class Solution{
         }
     }
     static string FindNumber(int [] anyArray, int anyNomber){
-        string answer = null;
+        string answer = string.Empty;
         for(int i = 0; i < anyArray.Length; i++){
             if(anyArray[i] == anyNomber){
                 answer = "Yes.";
