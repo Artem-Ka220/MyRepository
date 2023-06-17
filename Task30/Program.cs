@@ -8,7 +8,7 @@ class Solution{
         int[] myArray = CreateArray(7, 0, 15);
         EnumerateArray(myArray);
         Console.WriteLine();
-        FindNumber(myArray, 8);
+        Console.Write(FindNumber(myArray, 8));
     }
     static int[] CreateArray(int size,int max, int min){
         Random random = new Random();
@@ -30,15 +30,16 @@ class Solution{
             }
         }
     }
-    static void FindNumber(int [] anyArray, int anyNomber){
+    static string FindNumber(int [] anyArray, int anyNomber){
+        string answer = null;
         for(int i = 0; i < anyArray.Length; i++){
             if(anyArray[i] == anyNomber){
-                Console.Write("Да.");
+                answer = "Yes.";
                 break;
-            }else{
-                Console.Write("Нет.");
-                break;
+            }     else{
+                answer = "No.";
             }
         }
+        return answer; 
     }
 }
