@@ -9,7 +9,7 @@ class Solution
     {
         int[] myArray = CreateArray(7, 100, 800);
         PrintArray(myArray);
-        Console.Write($"The sum of the numbers in even position is: {SumEvenNumbers(myArray)}.");
+        Console.Write($"Sum of numbers in odd position: {SumEvenNumbers(myArray)}.");
     }
     static int[] CreateArray(int size, int min, int max)
     {
