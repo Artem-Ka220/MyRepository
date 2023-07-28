@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\bin\Debug\net6.0\Task39.exe
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\bin\Debug\net6.0\Task39.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\bin\Debug\net6.0\Task39.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\bin\Debug\net6.0\Task39.dll
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\bin\Debug\net6.0\Task39.pdb
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.dll
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\refint\Task39.dll
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.pdb
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\Task39.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Task\TaskOne\Task39\obj\Debug\net6.0\ref\Task39.dll
