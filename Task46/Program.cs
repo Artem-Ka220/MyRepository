@@ -55,22 +55,15 @@ class Solution
         }
         Console.WriteLine();
     }
-    static void SumArray(int[,] arrray)
-    {
+    static void SumArray(int[,] arrray){
         int sum = 0;
-        for (int i = 0; i < arrray.GetLength(0); i++)
-        {
-            for (int j = 0; j < arrray.GetLength(1); j++)
-            {
-                if (i == j)
-                {
-                    sum += arrray[i, j];
-                    if (i < arrray.GetLength(0) - 1)
-                    {
-                        Console.Write(sum + ", ");
-                    }
-                    else
-                    {
+        for(int i = 0; i < arrray.GetLength(0); i++){
+            for(int j = 0; j < arrray.GetLength(1); j++){
+                if(i == j){
+                    sum += arrray[i,j];
+                    if(i < arrray.GetLength(0) - 1){
+                    Console.Write(sum + ", ");
+                    } else{
                         Console.Write(sum + ".");
                     }
                 }
